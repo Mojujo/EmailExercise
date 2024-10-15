@@ -1,4 +1,4 @@
-package se.oscar;
+package se.oscar.email;
 
 import javax.mail.Message;
 import javax.mail.*;

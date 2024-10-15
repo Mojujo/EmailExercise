@@ -1,4 +1,4 @@
-package se.oscar;
+package se.oscar.email;
 
 public class Email {
     private final String to;
